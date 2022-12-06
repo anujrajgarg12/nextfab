@@ -777,10 +777,7 @@ export default function Home() {
               borderBottomColor: "rgba(0, 0, 0, 0.0)",
             }}
           >
-            <press-slider
-              data-type="logos"
-              data-id="#slider-template--16106166747344__1647266964caa25505"
-            >
+            
               <div className="container mx-auto px-4 overflow-visible">
                 <div className="flex flex-col lg:flex-row items-center justify-between w-full overflow-visible">
                   <div
@@ -971,7 +968,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-            </press-slider>
+            
           </div>
         </div>
         <div
@@ -1017,10 +1014,7 @@ export default function Home() {
                           "\n    variant-options .oke-sr-count {\n        display: none;\n    }\n",
                       }}
                     />
-                    <variant-options
-                      data-block={6857826336976}
-                      data-form="product-form-6857826336976"
-                    >
+                    
                       <div className="relative h-full">
                         <div className="relative flex flex-col justify-between h-full rounded-xl shadow-sm border border-gray-200 bg-white">
                           <div className="pt-16 w-9/12 mx-auto">
@@ -1513,7 +1507,7 @@ export default function Home() {
                           </svg>
                         </div>
                       </div>
-                    </variant-options>
+                    
                   </div>
                   <div className="keen-slider__slide number-slide2">
                     <style
@@ -1522,10 +1516,7 @@ export default function Home() {
                           "\n    variant-options .oke-sr-count {\n        display: none;\n    }\n",
                       }}
                     />
-                    <variant-options
-                      data-block={6857825648848}
-                      data-form="product-form-6857825648848"
-                    >
+                   
                       <div className="relative h-full">
                         <div className="relative flex flex-col justify-between h-full rounded-xl shadow-sm border border-gray-200 bg-white">
                           <div className="pt-16 w-9/12 mx-auto">
@@ -1960,7 +1951,7 @@ export default function Home() {
                           </svg>
                         </div>
                       </div>
-                    </variant-options>
+                    
                   </div>
                   <div className="keen-slider__slide number-slide3">
                     <style
@@ -1969,10 +1960,7 @@ export default function Home() {
                           "\n    variant-options .oke-sr-count {\n        display: none;\n    }\n",
                       }}
                     />
-                    <variant-options
-                      data-block={6857825616080}
-                      data-form="product-form-6857825616080"
-                    >
+                    
                       <div className="relative h-full">
                         <div className="relative flex flex-col justify-between h-full rounded-xl shadow-sm border border-gray-200 bg-white">
                           <div className="pt-16 w-9/12 mx-auto">
@@ -2407,7 +2395,7 @@ export default function Home() {
                           </svg>
                         </div>
                       </div>
-                    </variant-options>
+                    
                   </div>
                   <div className="keen-slider__slide number-slide4">
                     <style
@@ -2416,10 +2404,7 @@ export default function Home() {
                           "\n    variant-options .oke-sr-count {\n        display: none;\n    }\n",
                       }}
                     />
-                    <variant-options
-                      data-block={6857825812688}
-                      data-form="product-form-6857825812688"
-                    >
+                    
                       <div className="relative h-full">
                         <div className="relative flex flex-col justify-between h-full rounded-xl shadow-sm border border-gray-200 bg-white">
                           <div className="pt-16 w-9/12 mx-auto">
@@ -2854,7 +2839,7 @@ export default function Home() {
                           </svg>
                         </div>
                       </div>
-                    </variant-options>
+                    
                   </div>
                 </div>
               </div>
@@ -3362,10 +3347,7 @@ export default function Home() {
                           "\n    variant-options .oke-sr-count {\n        display: none;\n    }\n",
                       }}
                     />
-                    <variant-options
-                      data-block={6857825845456}
-                      data-form="product-form-6857825845456"
-                    >
+                    
                       <div className="relative h-full">
                         <div className="relative flex flex-col justify-between h-full rounded-xl shadow-sm border border-gray-200 bg-white">
                           <div className="pt-16 w-9/12 mx-auto">
@@ -3771,7 +3753,7 @@ export default function Home() {
                           </svg>
                         </div>
                       </div>
-                    </variant-options>
+                    
                   </div>
                   <div className="keen-slider__slide number-slide2">
                     <style
@@ -3780,10 +3762,7 @@ export default function Home() {
                           "\n    variant-options .oke-sr-count {\n        display: none;\n    }\n",
                       }}
                     />
-                    <variant-options
-                      data-block={6857825747152}
-                      data-form="product-form-6857825747152"
-                    >
+                    
                       <div className="relative h-full">
                         <div className="relative flex flex-col justify-between h-full rounded-xl shadow-sm border border-gray-200 bg-white">
                           <div className="pt-16 w-9/12 mx-auto">
@@ -4224,7 +4203,7 @@ export default function Home() {
                           </svg>
                         </div>
                       </div>
-                    </variant-options>
+                    
                   </div>
                   <div className="keen-slider__slide number-slide3">
                     <style
@@ -4233,10 +4212,7 @@ export default function Home() {
                           "\n    variant-options .oke-sr-count {\n        display: none;\n    }\n",
                       }}
                     />
-                    <variant-options
-                      data-block={7346707988688}
-                      data-form="product-form-7346707988688"
-                    >
+                    
                       <div className="relative h-full">
                         <div className="relative flex flex-col justify-between h-full rounded-xl shadow-sm border border-gray-200 bg-white">
                           <div className="pt-16 w-9/12 mx-auto">
@@ -4671,7 +4647,7 @@ export default function Home() {
                           </svg>
                         </div>
                       </div>
-                    </variant-options>
+                    
                   </div>
                   <div className="keen-slider__slide number-slide4">
                     <style
@@ -4680,10 +4656,7 @@ export default function Home() {
                           "\n    variant-options .oke-sr-count {\n        display: none;\n    }\n",
                       }}
                     />
-                    <variant-options
-                      data-block={6857825681616}
-                      data-form="product-form-6857825681616"
-                    >
+                    
                       <div className="relative h-full">
                         <div className="relative flex flex-col justify-between h-full rounded-xl shadow-sm border border-gray-200 bg-white">
                           <div className="pt-16 w-9/12 mx-auto">
@@ -5118,7 +5091,7 @@ export default function Home() {
                           </svg>
                         </div>
                       </div>
-                    </variant-options>
+                   
                   </div>
                 </div>
               </div>
