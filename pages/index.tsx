@@ -1263,7 +1263,7 @@ export default function Home() {
                                     defaultValue="3 Pack"
                                     form="product-form-6857826336976"
                                     aria-labelledby="quantity-6857826336976-1"
-                                    disabled=""
+                                    
                                   />
                                   <label
                                     id="quantity-6857826336976-1"
