@@ -1172,7 +1172,7 @@ export default function Home() {
                                       >
                                         <option
                                           value="Natural,300mg"
-                                          selected="selected"
+                                           
                                         >
                                           Natural - 300mg
                                         </option>
@@ -1245,7 +1245,7 @@ export default function Home() {
                                     className="sr-only"
                                     defaultValue="Single"
                                     form="product-form-6857826336976"
-                                    defaultChecked=""
+                                     
                                     aria-labelledby="quantity-6857826336976-0"
                                   />
                                   <label
@@ -1274,7 +1274,7 @@ export default function Home() {
                                   </label>
                                 </fieldset>
                               </div>
-                              <product-form className="product-form">
+                               
                                 <form
                                   method="post"
                                   action="/cart/add"
@@ -1282,7 +1282,7 @@ export default function Home() {
                                   acceptCharset="UTF-8"
                                   className="form"
                                   encType="multipart/form-data"
-                                  noValidate="novalidate"
+                                   
                                   data-type="add-to-cart-form"
                                   autoComplete="off"
                                 >
@@ -1336,7 +1336,7 @@ export default function Home() {
                                     </div>
                                   </button>
                                 </form>
-                              </product-form>
+                               
                             </div>
                           </div>
                           <svg
@@ -1674,7 +1674,7 @@ export default function Home() {
                                       >
                                         <option
                                           value="ANYTIME,25mg CBD Per Serving"
-                                          selected="selected"
+                                           
                                         >
                                           ANYTIME - 25mg CBD
                                         </option>
@@ -1690,7 +1690,7 @@ export default function Home() {
                                     className="sr-only"
                                     defaultValue="Single"
                                     form="product-form-6857825648848"
-                                    defaultChecked=""
+                                     
                                     aria-labelledby="quantity-6857825648848-0"
                                   />
                                   <label
@@ -1718,7 +1718,7 @@ export default function Home() {
                                   </label>
                                 </fieldset>
                               </div>
-                              <product-form className="product-form">
+                               
                                 <form
                                   method="post"
                                   action="/cart/add"
@@ -1726,7 +1726,7 @@ export default function Home() {
                                   acceptCharset="UTF-8"
                                   className="form"
                                   encType="multipart/form-data"
-                                  noValidate="novalidate"
+                                   
                                   data-type="add-to-cart-form"
                                   autoComplete="off"
                                 >
@@ -1780,7 +1780,7 @@ export default function Home() {
                                     </div>
                                   </button>
                                 </form>
-                              </product-form>
+                               
                             </div>
                           </div>
                           <svg
@@ -2118,7 +2118,7 @@ export default function Home() {
                                       >
                                         <option
                                           value="Cream,600mg"
-                                          selected="selected"
+                                           
                                         >
                                           Cream - 600mg
                                         </option>
@@ -2134,7 +2134,7 @@ export default function Home() {
                                     className="sr-only"
                                     defaultValue="Single"
                                     form="product-form-6857825616080"
-                                    defaultChecked=""
+                                     
                                     aria-labelledby="quantity-6857825616080-0"
                                   />
                                   <label
@@ -2162,7 +2162,7 @@ export default function Home() {
                                   </label>
                                 </fieldset>
                               </div>
-                              <product-form className="product-form">
+                               
                                 <form
                                   method="post"
                                   action="/cart/add"
@@ -2170,7 +2170,7 @@ export default function Home() {
                                   acceptCharset="UTF-8"
                                   className="form"
                                   encType="multipart/form-data"
-                                  noValidate="novalidate"
+                                   
                                   data-type="add-to-cart-form"
                                   autoComplete="off"
                                 >
@@ -2224,7 +2224,7 @@ export default function Home() {
                                     </div>
                                   </button>
                                 </form>
-                              </product-form>
+                               
                             </div>
                           </div>
                           <svg
@@ -2562,7 +2562,7 @@ export default function Home() {
                                       >
                                         <option
                                           value="NIGHTTIME,12.5mg CBD Per Serving"
-                                          selected="selected"
+                                           
                                         >
                                           NIGHTTIME - 12.5mg CBD
                                         </option>
@@ -2578,7 +2578,7 @@ export default function Home() {
                                     className="sr-only"
                                     defaultValue="Single"
                                     form="product-form-6857825812688"
-                                    defaultChecked=""
+                                     
                                     aria-labelledby="quantity-6857825812688-0"
                                   />
                                   <label
@@ -2606,7 +2606,7 @@ export default function Home() {
                                   </label>
                                 </fieldset>
                               </div>
-                              <product-form className="product-form">
+                               
                                 <form
                                   method="post"
                                   action="/cart/add"
@@ -2614,7 +2614,7 @@ export default function Home() {
                                   acceptCharset="UTF-8"
                                   className="form"
                                   encType="multipart/form-data"
-                                  noValidate="novalidate"
+                                   
                                   data-type="add-to-cart-form"
                                   autoComplete="off"
                                 >
@@ -2668,7 +2668,7 @@ export default function Home() {
                                     </div>
                                   </button>
                                 </form>
-                              </product-form>
+                               
                             </div>
                           </div>
                           <svg
@@ -3505,7 +3505,7 @@ export default function Home() {
                                       >
                                         <option
                                           value="Citrus,2400mg"
-                                          selected="selected"
+                                           
                                         >
                                           Citrus - 2400mg
                                         </option>
@@ -3520,7 +3520,7 @@ export default function Home() {
                                   </div>
                                 </div>
                               </div>
-                              <product-form className="product-form">
+                               
                                 <form
                                   method="post"
                                   action="/cart/add"
@@ -3528,7 +3528,7 @@ export default function Home() {
                                   acceptCharset="UTF-8"
                                   className="form"
                                   encType="multipart/form-data"
-                                  noValidate="novalidate"
+                                   
                                   data-type="add-to-cart-form"
                                   autoComplete="off"
                                 >
@@ -3582,7 +3582,7 @@ export default function Home() {
                                     </div>
                                   </button>
                                 </form>
-                              </product-form>
+                               
                             </div>
                           </div>
                           <svg
@@ -3920,7 +3920,7 @@ export default function Home() {
                                       >
                                         <option
                                           value="Salve,1000mg"
-                                          selected="selected"
+                                           
                                         >
                                           Salve - 1000mg
                                         </option>
@@ -3942,7 +3942,7 @@ export default function Home() {
                                     className="sr-only"
                                     defaultValue="Single"
                                     form="product-form-6857825747152"
-                                    defaultChecked=""
+                                     
                                     aria-labelledby="quantity-6857825747152-0"
                                   />
                                   <label
@@ -3970,7 +3970,7 @@ export default function Home() {
                                   </label>
                                 </fieldset>
                               </div>
-                              <product-form className="product-form">
+                               
                                 <form
                                   method="post"
                                   action="/cart/add"
@@ -3978,7 +3978,7 @@ export default function Home() {
                                   acceptCharset="UTF-8"
                                   className="form"
                                   encType="multipart/form-data"
-                                  noValidate="novalidate"
+                                   
                                   data-type="add-to-cart-form"
                                   autoComplete="off"
                                 >
@@ -4032,7 +4032,7 @@ export default function Home() {
                                     </div>
                                   </button>
                                 </form>
-                              </product-form>
+                               
                             </div>
                           </div>
                           <svg
@@ -4370,7 +4370,7 @@ export default function Home() {
                                       >
                                         <option
                                           value="Vegan Softgels,15mg Per Serving"
-                                          selected="selected"
+                                           
                                         >
                                           Vegan Softgels - 15mg
                                         </option>
@@ -4386,7 +4386,7 @@ export default function Home() {
                                     className="sr-only"
                                     defaultValue="Single"
                                     form="product-form-7346707988688"
-                                    defaultChecked=""
+                                     
                                     aria-labelledby="quantity-7346707988688-0"
                                   />
                                   <label
@@ -4414,7 +4414,7 @@ export default function Home() {
                                   </label>
                                 </fieldset>
                               </div>
-                              <product-form className="product-form">
+                               
                                 <form
                                   method="post"
                                   action="/cart/add"
@@ -4422,7 +4422,7 @@ export default function Home() {
                                   acceptCharset="UTF-8"
                                   className="form"
                                   encType="multipart/form-data"
-                                  noValidate="novalidate"
+                                   
                                   data-type="add-to-cart-form"
                                   autoComplete="off"
                                 >
@@ -4476,7 +4476,7 @@ export default function Home() {
                                     </div>
                                   </button>
                                 </form>
-                              </product-form>
+                               
                             </div>
                           </div>
                           <svg
@@ -4814,7 +4814,7 @@ export default function Home() {
                                       >
                                         <option
                                           value="CRUNCHY CALM & COOL"
-                                          selected="selected"
+                                           
                                         >
                                           CRUNCHY CALM &amp; COOL
                                         </option>
@@ -4830,7 +4830,7 @@ export default function Home() {
                                     className="sr-only"
                                     defaultValue="Single"
                                     form="product-form-6857825681616"
-                                    defaultChecked=""
+                                     
                                     aria-labelledby="quantity-6857825681616-0"
                                   />
                                   <label
@@ -4858,7 +4858,7 @@ export default function Home() {
                                   </label>
                                 </fieldset>
                               </div>
-                              <product-form className="product-form">
+                               
                                 <form
                                   method="post"
                                   action="/cart/add"
@@ -4866,7 +4866,7 @@ export default function Home() {
                                   acceptCharset="UTF-8"
                                   className="form"
                                   encType="multipart/form-data"
-                                  noValidate="novalidate"
+                                   
                                   data-type="add-to-cart-form"
                                   autoComplete="off"
                                 >
@@ -4920,7 +4920,7 @@ export default function Home() {
                                     </div>
                                   </button>
                                 </form>
-                              </product-form>
+                               
                             </div>
                           </div>
                           <svg
